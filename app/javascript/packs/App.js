@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 
-import NavBar from './NavBar';
+import NavBar from './header/NavBar';
 
 document.addEventListener('DOMContentLoaded', () => {
   ReactDOM.render(
